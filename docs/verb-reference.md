@@ -15,6 +15,32 @@
  <tbody>
   <tr>
    <td>1</td>
+   <td><strong>Heißen</strong></td>
+   <td>
+    <ul>
+     <li>Ich Heiße</li>
+     <li>Du Heißt</li>
+     <li>er/sie/es Heißt</li>
+     <li>Wir Heißen</li>
+     <li>Ihr Heißt</li>
+     <li>Sie Heißen</li>
+    </ul>
+   </td>
+   <td>To be called</td>
+   <td>نامیده شدن</td>
+   <td>
+    <ul>
+     <li>Ich Heiße Saeed</li>
+     <li>Du Heißt Lena</li>
+     <li>er/sie/es Heißt Sarah</li>
+     <li>Wir Heißen ...</li>
+     <li>Ihr Heißt ...</li>
+     <li>Sie Heißen ...</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>2</td>
    <td><strong>Lernen</strong></td>
    <td>
     <ul>
