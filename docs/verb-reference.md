@@ -15,6 +15,27 @@
  <tbody>
   <tr>
    <td>1</td>
+   <td><strong>Essen</strong></td>
+   <td>
+    <ul>
+     <li>Ich esse</li>
+     <li>Du isst</li>
+     <li>er/sie/es isst</li>
+     <li>Wir essen</li>
+     <li>Ihr esst</li>
+     <li>Sie essen</li>
+    </ul>
+   </td>
+   <td>To eat</td>
+   <td>خوردن</td>
+   <td>
+    <ul>
+     <li>Ihr esst Kartoffel</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>2</td>
    <td><strong>Heißen</strong></td>
    <td>
     <ul>
@@ -40,7 +61,7 @@
    </td>
   </tr>
   <tr>
-   <td>2</td>
+   <td>3</td>
    <td><strong>Kommen</strong></td>
    <td>
     <ul>
@@ -66,7 +87,7 @@
    </td>
   </tr>
   <tr>
-   <td>3</td>
+   <td>4</td>
    <td><strong>Lernen</strong></td>
    <td>
     <ul>
@@ -92,31 +113,31 @@
    </td>
   </tr>
   <tr>
-     <td>4</td>
-     <td><strong>Wohnen</strong></td>
-     <td>
-      <ul>
-       <li>Ich wohne</li>
-       <li>Du wohne</li>
-       <li>er/sie/es wohnt</li>
-       <li>Wir wohnen</li>
-       <li>Ihr wohnt</li>
-       <li>Sie wohnen</li>
-      </ul>
-     </td>
-     <td>To live</td>
-     <td>زندگی کردن</td>
-     <td>
-      <ul>
-       <li>Ich wohne Deutsch</li>
-       <li>Du wohnst Deutsch</li>
-       <li>er/sie/es wohnt Deutsch</li>
-       <li>Wir wohnen Deutsch</li>
-       <li>Ihr wohnt Deutsch</li>
-       <li>Sie wohnen Deutsch</li>
-      </ul>
-     </td>
-    </tr>
+   <td>5</td>
+   <td><strong>Wohnen</strong></td>
+   <td>
+    <ul>
+     <li>Ich wohne</li>
+     <li>Du wohne</li>
+     <li>er/sie/es wohnt</li>
+     <li>Wir wohnen</li>
+     <li>Ihr wohnt</li>
+     <li>Sie wohnen</li>
+    </ul>
+   </td>
+   <td>To live</td>
+   <td>زندگی کردن</td>
+   <td>
+    <ul>
+     <li>Ich wohne Deutsch</li>
+     <li>Du wohnst Deutsch</li>
+     <li>er/sie/es wohnt Deutsch</li>
+     <li>Wir wohnen Deutsch</li>
+     <li>Ihr wohnt Deutsch</li>
+     <li>Sie wohnen Deutsch</li>
+    </ul>
+   </td>
+  </tr>
   
  </tbody>
 </table>
