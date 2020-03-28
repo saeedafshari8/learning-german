@@ -206,7 +206,7 @@
    <td>6</td>
    <td><strong>Heißen</strong></td>
    <td>To be called</td>
-   <td>خطاب می شوم</td>
+   <td>خطاب شدن | نامیده شدن</td>
    <td>Ich Heiße Saeed.</td>
   </tr>
  </tbody>
