@@ -174,5 +174,33 @@
    <td>سلام</td>
    <td>Hallo Leute.</td>
   </tr>
+  <tr>
+   <td>2</td>
+   <td><strong>Guten Tag</strong></td>
+   <td>Good morning</td>
+   <td>روز بخیر</td>
+   <td>Guten Tag.</td>
+  </tr>
+  <tr>
+   <td>3</td>
+   <td><strong>Guten Morgen</strong></td>
+   <td>Good morning</td>
+   <td>صبح بخیر</td>
+   <td>Guten Morgen.</td>
+  </tr>
+  <tr>
+   <td>4</td>
+   <td><strong>Guten Abend</strong></td>
+   <td>Good evening</td>
+   <td>عصر بخیر</td>
+   <td>Guten Abend.</td>
+  </tr>
+  <tr>
+   <td>5</td>
+   <td><strong>Gute Nacht</strong></td>
+   <td>Good night</td>
+   <td>شب بخیر</td>
+   <td>Gute Nacht.</td>
+  </tr>
  </tbody>
 </table>
