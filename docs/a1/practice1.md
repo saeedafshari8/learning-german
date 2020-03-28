@@ -1,7 +1,5 @@
 # [Back](../a1/README.md)
 
-<input type="text" placeholder="Search!"/>
-
 ## Videos
 <table>
  <tr>
@@ -12,12 +10,12 @@
   <td>
    <a href="https://www.youtube.com/watch?v=gz9JbZcfnrk&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg" target="_blank">
     <img src="http://i3.ytimg.com/vi/gz9JbZcfnrk/maxresdefault.jpg" 
-    alt="Learning german with Jenny" width="300" height="200"/></a>
+    alt="Learning german with Jenny"/></a>
   </td>
   <td>
    <a href="https://www.youtube.com/watch?v=gz9JbZcfnrk&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg" target="_blank">
     <img src="http://i3.ytimg.com/vi/gz9JbZcfnrk/maxresdefault.jpg" 
-    alt="Learning german with Jenny" width="300" height="200"/></a>
+    alt="Learning german with Jenny"/></a>
   </td>
  </tr>
 </table>
