@@ -109,6 +109,7 @@
     <td>
      <ul>
       <li>Ich bin Saeed.</li> 
+      <li>Ich lerne Deutsch.</li> 
     </ul>
     </td>
   </tr>
