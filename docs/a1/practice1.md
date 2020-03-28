@@ -37,5 +37,11 @@
    <td>بله</td>
    <td>Bist du fertig? Ja.</td>
   </tr>
+  <tr>
+     <td>Nein</td>
+     <td>No</td>
+     <td>نخیر</td>
+     <td>Bist du müde? Nein.</td>
+    </tr>
  </tbody>
 </table>
