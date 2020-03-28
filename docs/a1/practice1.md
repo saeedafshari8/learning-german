@@ -209,5 +209,27 @@
    <td>خطاب شدن | نامیده شدن</td>
    <td>Wie Heißen Sie?</td>
   </tr>
+  <tr>
+   <td>7</td>
+   <td><strong>Ich bin</strong></td>
+   <td>I am</td>
+   <td>من هستم</td>
+   <td>Ich bin Softwareentwickler.</td>
+  </tr>
+  <tr>
+   <td>8</td>
+   <td><strong>Mein Name ist</strong></td>
+   <td>My name is</td>
+   <td>اسم من هست</td>
+   <td>Mein Name ist Saeed.</td>
+  </tr>
+  <tr>
+   <td>9</td>
+   <td><strong>und du | und Sie</strong></td>
+   <td>And you</td>
+   <td>و شما</td>
+   <td>Mein Name ist Saeed. Und du?</td>
+  </tr>
+    
  </tbody>
 </table>
