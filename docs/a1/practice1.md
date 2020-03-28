@@ -148,6 +148,17 @@
     </ul>
     </td>
   </tr>
+  <tr>
+    <td>15</td>
+    <td><strong>im Auto</strong></td>
+    <td>In the car</td>
+    <td>داخل ماشین</td>
+    <td>
+     <ul>
+      <li>Die Frau ist im Auto.</li>  
+    </ul>
+    </td>
+  </tr>
   
  </tbody>
 </table>
