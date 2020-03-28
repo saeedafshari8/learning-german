@@ -95,7 +95,10 @@
     <td>Wo</td>
     <td>Where</td>
     <td>کجا</td>
-    <td>Wo ist mein Auto.</td>
+    <td>
+    - Wo ist mein Auto. 
+    - Wo ist das Auto.
+    </td>
   </tr>
   
  </tbody>
