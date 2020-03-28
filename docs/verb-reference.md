@@ -15,6 +15,27 @@
  <tbody>
   <tr>
    <td>1</td>
+   <td><strong>Bestehen</strong></td>
+   <td>
+    <ul>
+     <li>Ich bestehe</li>
+     <li>Du bestehst</li>
+     <li>er/sie/es besteht</li>
+     <li>Wir bestehen</li>
+     <li>Ihr besteht</li>
+     <li>Sie bestehen</li>
+    </ul>
+   </td>
+   <td>To eat</td>
+   <td>خوردن</td>
+   <td>
+    <ul>
+     <li>Ihr esst Kartoffel</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>2</td>
    <td><strong>Essen</strong></td>
    <td>
     <ul>
@@ -35,7 +56,7 @@
    </td>
   </tr>
   <tr>
-   <td>2</td>
+   <td>3</td>
    <td><strong>Heißen</strong></td>
    <td>
     <ul>
@@ -61,7 +82,7 @@
    </td>
   </tr>
   <tr>
-   <td>3</td>
+   <td>4</td>
    <td><strong>Kommen</strong></td>
    <td>
     <ul>
@@ -87,7 +108,7 @@
    </td>
   </tr>
   <tr>
-   <td>4</td>
+   <td>5</td>
    <td><strong>Lernen</strong></td>
    <td>
     <ul>
@@ -113,7 +134,33 @@
    </td>
   </tr>
   <tr>
-   <td>5</td>
+   <td>6</td>
+   <td><strong>Überraschen</strong></td>
+   <td>
+    <ul>
+     <li>Ich überrasche</li>
+     <li>Du überraschst</li>
+     <li>er/sie/es überrascht</li>
+     <li>Wir überraschen</li>
+     <li>Ihr überrascht</li>
+     <li>Sie überraschen</li>
+    </ul>
+   </td>
+   <td>To learn</td>
+   <td>یاد گرفتن</td>
+   <td>
+    <ul>
+     <li>Ich lerne Deutsch</li>
+     <li>Du lernst Deutsch</li>
+     <li>er/sie/es lernt Deutsch</li>
+     <li>Wir lernen Deutsch</li>
+     <li>Ihr lernt Deutsch</li>
+     <li>Sie lernen Deutsch</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>7</td>
    <td><strong>Wohnen</strong></td>
    <td>
     <ul>

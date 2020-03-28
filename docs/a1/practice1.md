@@ -293,6 +293,48 @@
    <td>دامن</td>
    <td>Dein Rock ist zu kurz.</td>
   </tr>
+  <tr>
+   <td>19</td>
+   <td><strong>der Tisch</strong></td>
+   <td>the table</td>
+   <td></td>
+   <td>Dieser Tisch ist sehr teuer.</td>
+  </tr>
+  <tr>
+   <td>20</td>
+   <td><strong>die Uhr</strong></td>
+   <td>the watch</td>
+   <td></td>
+   <td>Diese Uhr ist so billig.</td>
+  </tr>
+  <tr>
+   <td>21</td>
+   <td><strong>der Vogel</strong></td>
+   <td>the bird</td>
+   <td></td>
+   <td>Dieser Vogel ist selten.</td>
+  </tr>
+  <tr>
+   <td>22</td>
+   <td><strong>das Wort</strong></td>
+   <td>the word</td>
+   <td></td>
+   <td>Der Satz besteht aus Wörten.</td>
+  </tr>
+  <tr>
+   <td>23</td>
+   <td><strong>die Soße</strong></td>
+   <td>the sauce</td>
+   <td></td>
+   <td>Bitte Ketchup-Sauce.</td>
+  </tr>
+  <tr>
+   <td>24</td>
+   <td><strong>die Überraschung</strong></td>
+   <td>the surprise</td>
+   <td></td>
+   <td>Du hast mich Überrascht.</td>
+  </tr>
     
  </tbody>
 </table>
