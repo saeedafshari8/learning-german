@@ -85,6 +85,12 @@
     <td>حرف تعیین خنثی</td>
     <td>Das ist das Auto?</td>
   </tr>
+  <tr>
+    <td>das Auto</td>
+    <td>The car</td>
+    <td>ماشین</td>
+    <td>Das Auto ist gelb.</td>
+  </tr>
   
  </tbody>
 </table>
