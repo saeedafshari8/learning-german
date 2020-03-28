@@ -133,7 +133,18 @@
     <td>مرد</td>
     <td>
      <ul>
-      <li>Der Man ist Traurig.</li>  
+      <li>Der Mann ist Traurig.</li>  
+    </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td><strong>Die Frau</strong></td>
+    <td>The woman</td>
+    <td>زن</td>
+    <td>
+     <ul>
+      <li>Die Frau ist alt.</li>  
     </ul>
     </td>
   </tr>
