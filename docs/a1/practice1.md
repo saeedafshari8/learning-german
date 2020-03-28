@@ -38,61 +38,61 @@
    <td>Bist du fertig? Ja.</td>
   </tr>
   <tr>
-    <td>Nein</td>
+    <td><strong>Nein</strong></td>
     <td>No</td>
     <td>نخیر</td>
     <td>Bist du müde? Nein.</td>
   </tr>
   <tr>
-    <td>Vielleicht</td>
+    <td><strong>Vielleicht</strong></td>
     <td>Perhaps, Maybe</td>
     <td>شاید</td>
     <td>Bist du krank? Vielleicht.</td>
   </tr>
   <tr>
-    <td>Männlich</td>
+    <td><strong>Männlich</strong></td>
     <td>Masculine</td>
     <td>مذکر</td>
     <td>Saeed ist ein männlicher Name.</td>
   </tr>
   <tr>
-    <td>Weiblich</td>
+    <td><strong>Weiblich</strong></td>
     <td>Feminine</td>
     <td>مونث</td>
     <td>Sarah ist ein weiblicher Name.</td>
   </tr>
   <tr>
-    <td>Neutral</td>
+    <td><strong>Neutral</strong></td>
     <td>Neutral</td>
     <td>خنثی</td>
     <td>Neutron ist neutral.</td>
   </tr>
   <tr>
-    <td>Der</td>
+    <td><strong>Der</strong></td>
     <td>The (Masculine)</td>
     <td>حرف تعیین مذکر</td>
     <td>Wo ist der Ball?</td>
   </tr>
   <tr>
-    <td>Die</td>
+    <td><strong>Die</strong></td>
     <td>The (Feminine)</td>
     <td>حرف تعیین مونث</td>
     <td>Die Sonne scheint?</td>
   </tr>
   <tr>
-    <td>Das</td>
+    <td><strong>Das</strong></td>
     <td>The (Neutral)</td>
     <td>حرف تعیین خنثی</td>
     <td>Das ist das Auto?</td>
   </tr>
   <tr>
-    <td>das Auto</td>
+    <td><strong>das Auto</strong></td>
     <td>The car</td>
     <td>ماشین</td>
     <td>Das Auto ist gelb.</td>
   </tr>
   <tr>
-    <td>Wo</td>
+    <td><strong>Wo</strong></td>
     <td>Where</td>
     <td>کجا</td>
     <td>
