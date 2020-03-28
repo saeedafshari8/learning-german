@@ -230,6 +230,20 @@
    <td>و شما</td>
    <td>Mein Name ist Saeed. Und du?</td>
   </tr>
+  <tr>
+   <td>10</td>
+   <td><strong>Woher kommen Sie?</strong></td>
+   <td>Where are you from?</td>
+   <td>و شما</td>
+   <td>Woher kommst du? Ich komme aus Deutschland!</td>
+  </tr>
+  <tr>
+   <td>11</td>
+   <td><strong>Wo wohnen Sie?</strong></td>
+   <td>Where do you live?</td>
+   <td>و شما</td>
+   <td>Wo wohnst du? I wohne in München.</td>
+  </tr>
     
  </tbody>
 </table>
