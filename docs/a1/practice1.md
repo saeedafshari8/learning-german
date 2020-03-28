@@ -150,7 +150,7 @@
   </tr>
   <tr>
     <td>15</td>
-    <td><strong>im Auto</strong></td>
+    <td><strong>im Auto | in dem Auto</strong></td>
     <td>In the car</td>
     <td>داخل ماشین</td>
     <td>
