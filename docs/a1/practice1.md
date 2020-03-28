@@ -91,6 +91,12 @@
     <td>ماشین</td>
     <td>Das Auto ist gelb.</td>
   </tr>
+  <tr>
+    <td>Wo</td>
+    <td>Where</td>
+    <td>کجا</td>
+    <td>Wo ist mein Auto.</td>
+  </tr>
   
  </tbody>
 </table>
