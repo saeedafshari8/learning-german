@@ -49,5 +49,42 @@
     <td>شاید</td>
     <td>Bist du krank? Vielleicht.</td>
   </tr>
+  <tr>
+    <td>Männlich</td>
+    <td>Masculine</td>
+    <td>مذکر</td>
+    <td>Saeed ist ein männlicher Name.</td>
+  </tr>
+  <tr>
+    <td>Weiblich</td>
+    <td>Feminine</td>
+    <td>مونث</td>
+    <td>Sarah ist ein weiblicher Name.</td>
+  </tr>
+  <tr>
+    <td>Neutral</td>
+    <td>Neutral</td>
+    <td>خنثی</td>
+    <td>Neutron ist neutral.</td>
+  </tr>
+  <tr>
+    <td>Der</td>
+    <td>The (Masculine)</td>
+    <td>حرف تعیین مذکر</td>
+    <td>Wo ist der Ball?</td>
+  </tr>
+  <tr>
+    <td>Die</td>
+    <td>The (Feminine)</td>
+    <td>حرف تعیین مونث</td>
+    <td>Die Sonne scheint?</td>
+  </tr>
+  <tr>
+    <td>Das</td>
+    <td>The (Neutral)</td>
+    <td>حرف تعیین خنثی</td>
+    <td>Das ist das Auto?</td>
+  </tr>
+  
  </tbody>
 </table>
