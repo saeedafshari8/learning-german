@@ -1,26 +1,12 @@
 # [Back](../a1/README.md)
 
-## Videos
-<table>
- <tr>
-  <th>Video 1</th>
-  <th>Video 2</th>
- </tr>
- <tr>
-  <td>
-   <a href="https://www.youtube.com/watch?v=gz9JbZcfnrk&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg" target="_blank">
-    <img src="http://i3.ytimg.com/vi/gz9JbZcfnrk/maxresdefault.jpg" 
-    alt="Learning german with Jenny"/></a>
-  </td>
-  <td>
-   <a href="https://www.youtube.com/watch?v=gz9JbZcfnrk&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg" target="_blank">
-    <img src="http://i3.ytimg.com/vi/gz9JbZcfnrk/maxresdefault.jpg" 
-    alt="Learning german with Jenny"/></a>
-  </td>
- </tr>
-</table>
+## Practice 1 - 1
 
-## Vocabs
+<a href="https://www.youtube.com/watch?v=gz9JbZcfnrk&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg" target="_blank">
+    <img src="http://i3.ytimg.com/vi/gz9JbZcfnrk/maxresdefault.jpg" 
+    alt="15 words for beginners!"/></a>
+
+### Vocabs
 <table>
  <thead>
   <tr>
@@ -160,5 +146,33 @@
     </td>
   </tr>
   
+ </tbody>
+</table>
+
+## Practice 1 - 2
+
+<a href="https://www.youtube.com/watch?v=MgenU0GTz4g&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg&index=2" target="_blank">
+    <img src="http://i3.ytimg.com/vi/MgenU0GTz4g/maxresdefault.jpg" 
+    alt="Guten Tag!"/></a>
+
+### Vocabs
+<table>
+ <thead>
+  <tr>
+   <th>#</th>
+   <th>Word</th>
+   <th>Translations in English</th>
+   <th>Translations in Persian</th>
+   <th>Examples</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>1</td>
+   <td><strong>Hallo</strong></td>
+   <td>Hello</td>
+   <td>سلام</td>
+   <td>Hallo Leute.</td>
+  </tr>
  </tbody>
 </table>
