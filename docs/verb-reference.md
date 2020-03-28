@@ -41,6 +41,32 @@
   </tr>
   <tr>
    <td>2</td>
+   <td><strong>Kommen</strong></td>
+   <td>
+    <ul>
+     <li>Ich komme</li>
+     <li>Du kommst</li>
+     <li>er/sie/es kommt</li>
+     <li>Wir kommen</li>
+     <li>Ihr kommt</li>
+     <li>Sie kommen</li>
+    </ul>
+   </td>
+   <td>To come</td>
+   <td>آمدن</td>
+   <td>
+    <ul>
+     <li>Ich komme aus Berlin</li>
+     <li>Du kommst aus Berlin</li>
+     <li>er/sie/es kommt aus Berlin</li>
+     <li>Wir kommen aus Berlin</li>
+     <li>Ihr kommt aus Berlin</li>
+     <li>Sie kommen aus Berlin</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>3</td>
    <td><strong>Lernen</strong></td>
    <td>
     <ul>
