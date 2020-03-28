@@ -1,5 +1,7 @@
 # [Back](../a1/README.md)
 
+<input type="text" placeholder="Search!"/>
+
 ## Videos
 <table>
  <tr>
@@ -19,7 +21,7 @@
   </td>
  </tr>
 </table>
-<input type="text"/>
+
 ## Vocabs
 <table>
  <thead>
