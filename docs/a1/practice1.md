@@ -207,7 +207,7 @@
    <td><strong>Heißen</strong></td>
    <td>To be called</td>
    <td>خطاب شدن | نامیده شدن</td>
-   <td>Ich Heiße Saeed.</td>
+   <td>Wie Heißen Sie?</td>
   </tr>
  </tbody>
 </table>
