@@ -69,11 +69,6 @@
    <td>
     <ul>
      <li>Ich Heiße Saeed</li>
-     <li>Du Heißt Lena</li>
-     <li>er/sie/es Heißt Sarah</li>
-     <li>Wir Heißen ...</li>
-     <li>Ihr Heißt ...</li>
-     <li>Sie Heißen ...</li>
     </ul>
    </td>
   </tr>
@@ -107,12 +102,7 @@
    <td><strong>Lernen</strong></td>
    <td>
     <ul>
-     <li>Ich lerne</li>
-     <li>Du lernst</li>
-     <li>er/sie/es lernt</li>
-     <li>Wir lernen</li>
-     <li>Ihr lernt</li>
-     <li>Sie lernen</li>
+     <li>Ich komme aus den USA</li>
     </ul>
    </td>
    <td>To learn</td>
@@ -143,12 +133,7 @@
    <td>To learn</td>
    <td>
     <ul>
-     <li>Ich lerne Deutsch</li>
-     <li>Du lernst Deutsch</li>
-     <li>er/sie/es lernt Deutsch</li>
-     <li>Wir lernen Deutsch</li>
-     <li>Ihr lernt Deutsch</li>
-     <li>Sie lernen Deutsch</li>
+     <li>Du hast mich Überrascht.</li>
     </ul>
    </td>
   </tr>
