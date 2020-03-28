@@ -38,10 +38,16 @@
    <td>Bist du fertig? Ja.</td>
   </tr>
   <tr>
-     <td>Nein</td>
-     <td>No</td>
-     <td>نخیر</td>
-     <td>Bist du müde? Nein.</td>
-    </tr>
+    <td>Nein</td>
+    <td>No</td>
+    <td>نخیر</td>
+    <td>Bist du müde? Nein.</td>
+  </tr>
+  <tr>
+    <td>Vielleicht</td>
+    <td>Perhaps, Maybe</td>
+    <td>شاید</td>
+    <td>Bist du krank? Vielleicht.</td>
+  </tr>
  </tbody>
 </table>
