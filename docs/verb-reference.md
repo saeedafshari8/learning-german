@@ -8,7 +8,6 @@
    <th>Verb</th>
    <th>Conjugation</th>
    <th>Translations in English</th>
-   <th>Translations in Persian</th>
    <th>Examples</th>
   </tr>
  </thead>
@@ -27,7 +26,6 @@
     </ul>
    </td>
    <td>To eat</td>
-   <td>خوردن</td>
    <td>
     <ul>
      <li>Ihr esst Kartoffel</li>
@@ -48,7 +46,6 @@
     </ul>
    </td>
    <td>To eat</td>
-   <td>خوردن</td>
    <td>
     <ul>
      <li>Ihr esst Kartoffel</li>
@@ -69,7 +66,6 @@
     </ul>
    </td>
    <td>To be called</td>
-   <td>نامیده شدن</td>
    <td>
     <ul>
      <li>Ich Heiße Saeed</li>
@@ -95,7 +91,6 @@
     </ul>
    </td>
    <td>To come</td>
-   <td>آمدن</td>
    <td>
     <ul>
      <li>Ich komme aus Berlin</li>
@@ -121,7 +116,6 @@
     </ul>
    </td>
    <td>To learn</td>
-   <td>یاد گرفتن</td>
    <td>
     <ul>
      <li>Ich lerne Deutsch</li>
@@ -147,7 +141,6 @@
     </ul>
    </td>
    <td>To learn</td>
-   <td>یاد گرفتن</td>
    <td>
     <ul>
      <li>Ich lerne Deutsch</li>
@@ -173,7 +166,6 @@
     </ul>
    </td>
    <td>To live</td>
-   <td>زندگی کردن</td>
    <td>
     <ul>
      <li>Ich wohne Deutsch</li>
