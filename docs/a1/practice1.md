@@ -32,7 +32,7 @@
  </thead>
  <tbody>
   <tr>
-   <td>Ja</td>
+   <td><strong>Ja</strong></td>
    <td>Yes</td>
    <td>بله</td>
    <td>Bist du fertig? Ja.</td>
