@@ -4,6 +4,7 @@
 <table>
  <thead>
   <tr>
+   <th>#</th>
    <th>Verb</th>
    <th>Conjugation</th>
    <th>Translations in English</th>
@@ -13,6 +14,7 @@
  </thead>
  <tbody>
   <tr>
+   <td>1</td>
    <td><strong>Lernen</strong></td>
    <td>
     <ul>
