@@ -244,6 +244,55 @@
    <td>و شما</td>
    <td>Wo wohnst du? I wohne in München.</td>
   </tr>
+  <tr>
+   <td>12</td>
+   <td><strong>Die Insel</strong></td>
+   <td>The island</td>
+   <td>جزیره</td>
+   <td>Die Insel ist groß</td>
+  </tr>
+  <tr>
+   <td>13</td>
+   <td><strong>Die Jacke</strong></td>
+   <td>The jacket</td>
+   <td>ژاکت</td>
+   <td>Die Jacke ist schön</td>
+  </tr>
+  <tr>
+   <td>14</td>
+   <td><strong>Die Lampe</strong></td>
+   <td>The lamp</td>
+   <td>لامپ</td>
+   <td>Die Lampe ist so leicht</td>
+  </tr>
+  <tr>
+   <td>15</td>
+   <td><strong>Der Mund</strong></td>
+   <td>The mouth</td>
+   <td>دهان</td>
+   <td>Die Zunge ist im Mund</td>
+  </tr>
+  <tr>
+   <td>16</td>
+   <td><strong>Wie</strong></td>
+   <td>How, like, as</td>
+   <td>چگونه | مانند</td>
+   <td>Wie ist es?</td>
+  </tr>
+  <tr>
+   <td>17</td>
+   <td><strong>Quatsch</strong></td>
+   <td>Nonsense</td>
+   <td>مذخرف</td>
+   <td>Das ist quatsch</td>
+  </tr>
+  <tr>
+   <td>18</td>
+   <td><strong>der Rock</strong></td>
+   <td>Skirt</td>
+   <td>دامن</td>
+   <td>Dein Rock ist zu kurz.</td>
+  </tr>
     
  </tbody>
 </table>
