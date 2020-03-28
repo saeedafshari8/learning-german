@@ -19,3 +19,23 @@
   </td>
  </tr>
 </table>
+<input type="text"/>
+## Vocabs
+<table>
+ <thead>
+  <tr>
+   <th>Word</th>
+   <th>Translations in English</th>
+   <th>Translations in Persian</th>
+   <th>Examples</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Ja</td>
+   <td>Yes</td>
+   <td>بله</td>
+   <td>Bist du fertig? Ja.</td>
+  </tr>
+ </tbody>
+</table>
