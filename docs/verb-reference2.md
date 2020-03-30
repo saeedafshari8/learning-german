@@ -51,6 +51,26 @@
      <li>Ich mag ein ernstes Rennen.</li>
     </ul>
    </td>
+  </tr>
+  <tr>
+   <td>3</td>
+   <td><strong>passen</strong></td>
+   <td>
+    <ul>
+     <li>Ich passe</li>
+     <li>Du passt</li>
+     <li>er/sie/es passt</li>
+     <li>Wir passen</li>
+     <li>Ihr passt</li>
+     <li>Sie passen</li>
+    </ul>
+   </td>
+   <td>To race</td>
+   <td>
+    <ul>
+     <li>Ich mag ein ernstes Rennen.</li>
+    </ul>
+   </td>
   </tr>  
  </tbody>
 </table>
