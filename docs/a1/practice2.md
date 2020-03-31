@@ -81,7 +81,61 @@
    <td>11</td>
    <td><strong>Die Freiheit</strong></td>
    <td>The freedom</td>
-   <td>Die Frauen haben Freiheit.</td>
+   <td>Die Frauen haben Freiheit in Deutschland.</td>
+  </tr>
+  <tr>
+   <td>12</td>
+   <td><strong>Die Freiheit</strong></td>
+   <td>The freedom</td>
+   <td>Die Frauen haben Freiheit in Deutschland.</td>
+  </tr>
+  <tr>
+   <td>13</td>
+   <td><strong>Die Sprache</strong></td>
+   <td>The language</td>
+   <td>In Deutschland ist die Amtssprache Deutsch.</td>
+  </tr>
+  <tr>
+   <td>14</td>
+   <td><strong>Krank</strong></td>
+   <td>Sick</td>
+   <td>Krankenschwestern kümmern sich um kranke Menschen.</td>
+  </tr>
+  <tr>
+   <td>15</td>
+   <td><strong>Der Schrank</strong></td>
+   <td>The closet</td>
+   <td>Der Schrank ist zu dunkel.</td>
+  </tr>
+  <tr>
+   <td>16</td>
+   <td><strong>Prima</strong></td>
+   <td>great, fine</td>
+   <td>Das war eine prima Präsentation.</td>
+  </tr>
+  <tr>
+   <td>17</td>
+   <td><strong>höflich</strong></td>
+   <td>polite</td>
+   <td>Das war nicht höflich.</td>
+  </tr>
+  <tr>
+   <td>18</td>
+   <td><strong>das Problem</strong></td>
+   <td>the problem</td>
+   <td>Das ist ein sehr wichtiges Problem.</td>
+  </tr>
+  <tr>
+   <td>19</td>
+   <td><strong>die Treppe</strong></td>
+   <td>the stairs</td>
+   <td>Sie können die Treppe benutzen.</td>
+  </tr>
+  <tr>
+   <td>20</td>
+   <td><strong>die Fähre</strong></td>
+   <td>the ferry</td>
+   <td>Das Fähre ist sehr schön.</td>
   </tr>
     
  </tbody>
