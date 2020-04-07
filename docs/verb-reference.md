@@ -25,10 +25,10 @@
      <li>Sie bestehen</li>
     </ul>
    </td>
-   <td>To eat</td>
+   <td>To pass</td>
    <td>
     <ul>
-     <li>Ihr esst Kartoffel</li>
+     <li>Ihr erwarte, die Prüfung zu bestehen.</li>
     </ul>
    </td>
   </tr>

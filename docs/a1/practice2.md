@@ -137,6 +137,11 @@
    <td>the ferry</td>
    <td>Das Fähre ist sehr schön.</td>
   </tr>
-    
+  <tr>
+   <td>21</td>
+   <td><strong>die Warheit</strong></td>
+   <td>the truth</td>
+   <td>Ich will, die Wahrheit wissen.</td>
+  </tr>
  </tbody>
 </table>

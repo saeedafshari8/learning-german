@@ -65,10 +65,10 @@
      <li>Sie passen</li>
     </ul>
    </td>
-   <td>To race</td>
+   <td>To fit</td>
    <td>
     <ul>
-     <li>Ich mag ein ernstes Rennen.</li>
+     <li>Ich denke, ich passe in die Position.</li>
     </ul>
    </td>
   </tr>
@@ -149,6 +149,7 @@
    <td>
     <ul>
      <li>Ich werde mein Guthaben benutzt.</li>
+     <li>Ich weiß, wie man es benutzt.</li>
     </ul>
    </td>
   </tr>
@@ -169,6 +170,126 @@
    <td>
     <ul>
      <li>Ich werde wegfahren.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>9</td>
+   <td><strong>Erklären</strong></td>
+   <td>
+    <ul>
+     <li>Ich erkläre</li>
+     <li>Du erklärst</li>
+     <li>er/sie/es erklärt</li>
+     <li>Wir erklären</li>
+     <li>Ihr erklärt</li>
+     <li>Sie erklären</li>
+    </ul>
+   </td>
+   <td>To explain</td>
+   <td>
+    <ul>
+     <li>Ich weiß nich, wie ich es erklären soll.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>10</td>
+   <td><strong>Gehören</strong></td>
+   <td>
+    <ul>
+     <li>Ich gehöre</li>
+     <li>Du gehörst</li>
+     <li>er/sie/es gethört</li>
+     <li>Wir gethören</li>
+     <li>Ihr gehörst</li>
+     <li>Sie gehören</li>
+    </ul>
+   </td>
+   <td>To belong</td>
+   <td>
+    <ul>
+     <li>Gehörst du hierher.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>11</td>
+   <td><strong>Verlieren</strong></td>
+   <td>
+    <ul>
+     <li>Ich verliere</li>
+     <li>Du verlierst</li>
+     <li>er/sie/es verlirt</li>
+     <li>Wir verlieren</li>
+     <li>Ihr verliert</li>
+     <li>Sie verlieren</li>
+    </ul>
+   </td>
+   <td>To lose</td>
+   <td>
+    <ul>
+     <li>Hast du deinen schlüssel verloren.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>12</td>
+   <td><strong>Studieren</strong></td>
+   <td>
+    <ul>
+     <li>Ich studiere</li>
+     <li>Du studierst</li>
+     <li>er/sie/es studiert</li>
+     <li>Wir studieren</li>
+     <li>Ihr studiert</li>
+     <li>Sie studieren</li>
+    </ul>
+   </td>
+   <td>To study</td>
+   <td>
+    <ul>
+     <li>Studierst du Physik.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>13</td>
+   <td><strong>Lernen</strong></td>
+   <td>
+    <ul>
+     <li>Ich lerne</li>
+     <li>Du lernst</li>
+     <li>er/sie/es lernt</li>
+     <li>Wir lernen</li>
+     <li>Ihr lernt</li>
+     <li>Sie lernen</li>
+    </ul>
+   </td>
+   <td>To learn</td>
+   <td>
+    <ul>
+     <li>Ich lerne gerne neue Dinge.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>14</td>
+   <td><strong>Erwarten</strong></td>
+   <td>
+    <ul>
+     <li>Ich erwarte</li>
+     <li>Du erwartest</li>
+     <li>er/sie/es erwartet</li>
+     <li>Wir erwarten</li>
+     <li>Ihr erwartet</li>
+     <li>Sie erwarten</li>
+    </ul>
+   </td>
+   <td>To expect</td>
+   <td>
+    <ul>
+     <li>Ich erwarte, die Prüfung zu bestehen.</li>
     </ul>
    </td>
   </tr>  
