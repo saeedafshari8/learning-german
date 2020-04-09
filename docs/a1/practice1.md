@@ -319,7 +319,7 @@
    <td><strong>das Wort</strong></td>
    <td>the word</td>
    <td></td>
-   <td>Der Satz besteht aus Wörten.</td>
+   <td>Der Satz besteht aus Wörtern.</td>
   </tr>
   <tr>
    <td>23</td>
@@ -334,6 +334,13 @@
    <td>the surprise</td>
    <td></td>
    <td>Du hast mich Überrascht.</td>
+  </tr>
+  <tr>
+   <td>25</td>
+   <td><strong>Wütend</strong></td>
+   <td>Angrz</td>
+   <td></td>
+   <td>Du bist heute wütend.</td>
   </tr>
     
  </tbody>

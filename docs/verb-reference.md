@@ -28,7 +28,7 @@
    <td>To pass</td>
    <td>
     <ul>
-     <li>Ihr erwarte, die Prüfung zu bestehen.</li>
+     <li>Ihr erwartet, die Prüfung zu bestehen.</li>
     </ul>
    </td>
   </tr>
@@ -153,12 +153,12 @@
    <td>To live</td>
    <td>
     <ul>
-     <li>Ich wohne Deutsch</li>
-     <li>Du wohnst Deutsch</li>
-     <li>er/sie/es wohnt Deutsch</li>
-     <li>Wir wohnen Deutsch</li>
-     <li>Ihr wohnt Deutsch</li>
-     <li>Sie wohnen Deutsch</li>
+     <li>Ich wohne in Deutschland</li>
+     <li>Du wohnst in Deutschland</li>
+     <li>er/sie/es wohnt in Deutschland</li>
+     <li>Wir wohnen in Deutschland</li>
+     <li>Ihr wohnt in Deutschland</li>
+     <li>Sie wohnen in Deutschland</li>
     </ul>
    </td>
   </tr>

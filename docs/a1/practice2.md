@@ -50,7 +50,7 @@
   <tr>
    <td>6</td>
    <td><strong>Die Größe</strong></td>
-   <td>To size</td>
+   <td>the size</td>
    <td>Es ist nicht meine Größe.</td>
   </tr>
   <tr>
@@ -85,9 +85,9 @@
   </tr>
   <tr>
    <td>12</td>
-   <td><strong>Die Freiheit</strong></td>
-   <td>The freedom</td>
-   <td>Die Frauen haben Freiheit in Deutschland.</td>
+   <td><strong>Der Fußballspieler</strong></td>
+   <td>The soccer player</td>
+   <td>Er ist mein Lieblingsfußballspieler.</td>
   </tr>
   <tr>
    <td>13</td>
@@ -135,7 +135,7 @@
    <td>20</td>
    <td><strong>die Fähre</strong></td>
    <td>the ferry</td>
-   <td>Das Fähre ist sehr schön.</td>
+   <td>Die Fähre ist sehr schön.</td>
   </tr>
   <tr>
    <td>21</td>
@@ -196,6 +196,12 @@
    <td><strong>das Bier</strong></td>
    <td>The beer</td>
    <td>Ich hasse Beergeschmack.</td>
+  </tr>
+  <tr>
+   <td>31</td>
+   <td><strong>die Antwort</strong></td>
+   <td>The answer, reply</td>
+   <td>Danke für deine Antwort.</td>
   </tr>
  </tbody>
 </table>

@@ -69,6 +69,7 @@
    <td>
     <ul>
      <li>Ich denke, ich passe in die Position.</li>
+     <li>Ich denke, ich bin eine gute Passform.</li>
     </ul>
    </td>
   </tr>
@@ -189,7 +190,7 @@
    <td>To explain</td>
    <td>
     <ul>
-     <li>Ich weiß nich, wie ich es erklären soll.</li>
+     <li>Ich weiß nich, wie soll ich es erklären.</li>
     </ul>
    </td>
   </tr>
@@ -201,8 +202,8 @@
      <li>Ich gehöre</li>
      <li>Du gehörst</li>
      <li>er/sie/es gethört</li>
-     <li>Wir gethören</li>
-     <li>Ihr gehörst</li>
+     <li>Wir gehören</li>
+     <li>Ihr gehört</li>
      <li>Sie gehören</li>
     </ul>
    </td>
