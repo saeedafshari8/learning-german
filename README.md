@@ -1,3 +1,3 @@
 # Learning German
-## [Verb reference](docs/a1/verb-reference1.md)
+## [Verb reference](docs/verb-reference.md)
 ## [Level A1](./docs/a1/README.md)
