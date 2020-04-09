@@ -6,7 +6,7 @@
     <img src="http://i3.ytimg.com/vi/rid4FG6BdLs/maxresdefault.jpg" 
     alt="Regular verbs"/></a>
 
-##§ Verbs
+## Verbs
 <table>
  <thead>
   <tr>
@@ -66,6 +66,48 @@
      <li>Ich gehe ins Bett.</li>
      <li>Ich gehe weg.</li>
      <li>Der hund geht nach draußen.</li>
+    </ul>
+   </td>
+  </tr>  
+ </tbody>
+</table>
+
+<a href="https://www.youtube.com/watch?v=R4E9vLFjO7M&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg&index=6" target="_blank">
+    <img src="http://i3.ytimg.com/vi/R4E9vLFjO7M/maxresdefault.jpg" 
+    alt="Ask questions with regular verbs"/></a>
+
+
+## How to ask questions
+<table>
+ <thead>
+  <tr>
+   <th>#</th>
+   <th>Question</th>
+   <th>Translations in English</th>
+   <th>Other forms</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>1</td>
+   <td><strong>Lernst du?</strong></td>
+   <td>Are you learning/studying?</td>
+   <td>
+    <ul>
+     <li>Lernt ihr heute?</li>
+     <li>Lernt sie für die Prüfung heute?</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>2</td>
+   <td><strong>Machst du Kaffee?</strong></td>
+   <td>Are zou making coffee?</td>
+   <td>
+    <ul>
+     <li>Machen Sie heute Kaffee?</li>
+     <li>Wirst du morgen Kaffee machen?</li>
+     <li>Macht Sarah Überstunden?</li>
     </ul>
    </td>
   </tr>  
