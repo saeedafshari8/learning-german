@@ -143,5 +143,59 @@
    <td>the truth</td>
    <td>Ich will, die Wahrheit wissen.</td>
   </tr>
+  <tr>
+   <td>22</td>
+   <td><strong>Gefärlich</strong></td>
+   <td>Dangerous</td>
+   <td>Das ist gefärlich.</td>
+  </tr>
+  <tr>
+   <td>23</td>
+   <td><strong>die Schwiegereltern</strong></td>
+   <td>The in-laws</td>
+   <td>Mein Schwager wohnt in Berlin.</td>
+  </tr>
+  <tr>
+   <td>24</td>
+   <td><strong>für</strong></td>
+   <td>for</td>
+   <td>Danke für ihre Antwort.</td>
+  </tr>
+  <tr>
+   <td>25</td>
+   <td><strong>hier</strong></td>
+   <td>here</td>
+   <td>Ich bin hier.</td>
+  </tr>
+  <tr>
+   <td>26</td>
+   <td><strong>das Wetter</strong></td>
+   <td>The weather</td>
+   <td>Das Wetter ist heute schön.</td>
+  </tr>
+  <tr>
+   <td>27</td>
+   <td><strong>der Sommer</strong></td>
+   <td>The summer</td>
+   <td>Der Sommer kommt.</td>
+  </tr>
+  <tr>
+   <td>28</td>
+   <td><strong>der Politiker</strong></td>
+   <td>The politician</td>
+   <td>Ich kenne diesen Politiker.</td>
+  </tr>
+  <tr>
+   <td>29</td>
+   <td><strong>das Meer</strong></td>
+   <td>The see</td>
+   <td>Ich war noch nie in einem Meer.</td>
+  </tr>
+  <tr>
+   <td>30</td>
+   <td><strong>das Bier</strong></td>
+   <td>The beer</td>
+   <td>Ich hasse Beergeschmack.</td>
+  </tr>
  </tbody>
 </table>
