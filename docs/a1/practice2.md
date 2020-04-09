@@ -203,5 +203,41 @@
    <td>The answer, reply</td>
    <td>Danke für deine Antwort.</td>
   </tr>
+  <tr>
+   <td>32</td>
+   <td><strong>der Sport</strong></td>
+   <td>The sport</td>
+   <td>Mein Lieblingssport ist Basketball.</td>
+  </tr>
+  <tr>
+   <td>33</td>
+   <td><strong>Morgen</strong></td>
+   <td>Tomorrow</td>
+   <td>Bis morgen.</td>
+  </tr>
+  <tr>
+   <td>34</td>
+   <td><strong>Der Berg</strong></td>
+   <td>the mountain</td>
+   <td>In Bayern gibt es viele Berge.</td>
+  </tr>
+  <tr>
+   <td>35</td>
+   <td><strong>dort</strong></td>
+   <td>there</td>
+   <td>es ist dort.</td>
+  </tr>
+  <tr>
+   <td>36</td>
+   <td><strong>kurz</strong></td>
+   <td>short</td>
+   <td>Ich wiß, was ist die kurzarbeitzeit.</td>
+  </tr>
+  <tr>
+   <td>37</td>
+   <td><strong>die Eltern</strong></td>
+   <td>the parents</td>
+   <td>Meine eltern leben im Iran.</td>
+  </tr>
  </tbody>
 </table>
