@@ -239,5 +239,11 @@
    <td>the parents</td>
    <td>Meine eltern leben im Iran.</td>
   </tr>
+  <tr>
+   <td>38</td>
+   <td><strong>Lärm</strong></td>
+   <td>noise</td>
+   <td>Du machst Lärm.</td>
+  </tr>
  </tbody>
 </table>

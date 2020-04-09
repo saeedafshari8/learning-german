@@ -1,0 +1,73 @@
+# [Back](../a1/README.md)
+
+## Regular verbs
+
+<a href="https://www.youtube.com/watch?v=rid4FG6BdLs&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg&index=5" target="_blank">
+    <img src="http://i3.ytimg.com/vi/rid4FG6BdLs/maxresdefault.jpg" 
+    alt="Regular verbs"/></a>
+
+##§ Verbs
+<table>
+ <thead>
+  <tr>
+   <th>#</th>
+   <th>Verb</th>
+   <th>Conjugation</th>
+   <th>Translations in English</th>
+   <th>Examples</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>1</td>
+   <td><strong>machen</strong></td>
+   <td>
+    <ul>
+     <li>Ich mache</li>
+     <li>Du machst</li>
+     <li>er/sie/es macht</li>
+     <li>Wir machen</li>
+     <li>Ihr macht</li>
+     <li>Sie machen</li>
+    </ul>
+   </td>
+   <td>To make</td>
+   <td>
+    <ul>
+     <li>Ich mache ein sehr schnelles Auto.</li>
+     <li>Sie macht einen Salat.</li>
+     <li>Wir machen Urlab.</li>
+     <li>Ihr macht lärm.</li>
+     <li>Ich mache Kaffee.</li>
+     <li>Sie macht das Bett.</li>
+     <li>Ich mache nichts.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>2</td>
+   <td><strong>gehen</strong></td>
+   <td>
+    <ul>
+     <li>Ich gehe</li>
+     <li>Du gehst</li>
+     <li>er/sie/es geht</li>
+     <li>Wir gehen</li>
+     <li>Ihr geht</li>
+     <li>Sie gehen</li>
+    </ul>
+   </td>
+   <td>To go</td>
+   <td>
+    <ul>
+     <li>Ich gehe zum Supermarkt.</li>
+     <li>Ich gehe nach Hause.</li>
+     <li>Sie geht zu Fuß.</li>
+     <li>Ich gehe ins Bett.</li>
+     <li>Ich gehe weg.</li>
+     <li>Der hund geht nach draußen.</li>
+    </ul>
+   </td>
+  </tr>  
+ </tbody>
+</table>

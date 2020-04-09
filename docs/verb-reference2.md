@@ -271,6 +271,11 @@
    <td>
     <ul>
      <li>Ich lerne gerne neue Dinge.</li>
+     <li>Er lernt viel.</li>
+     <li>Er lernt für die Prüfung.</li>
+     <li>Er lernt gerade.</li>
+     <li>Sie lernt heute.</li>
+     <li>Ich lerne nicht.</li>
     </ul>
    </td>
   </tr>
