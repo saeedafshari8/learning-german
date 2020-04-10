@@ -338,9 +338,16 @@
   <tr>
    <td>25</td>
    <td><strong>Wütend</strong></td>
-   <td>Angrz</td>
+   <td>Angry</td>
    <td></td>
    <td>Du bist heute wütend.</td>
+  </tr>
+  <tr>
+   <td>26</td>
+   <td><strong>Beruf</strong></td>
+   <td>Job, Occupation, Profession</td>
+   <td></td>
+   <td>Was bist du von Beruf.</td>
   </tr>
     
  </tbody>
