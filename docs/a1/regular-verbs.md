@@ -108,6 +108,21 @@
      <li>Machen Sie heute Kaffee?</li>
      <li>Wirst du morgen Kaffee machen?</li>
      <li>Macht Sarah Überstunden?</li>
+     <li>Machst du die Hausafgauben?</li>
+     <li>Macht ihr eine Pause?</li>
+    </ul>
+   </td>
+  </tr>  
+  <tr>
+   <td>3</td>
+   <td><strong>Geht er nach Hause?</strong></td>
+   <td>Is he going home?</td>
+   <td>
+    <ul>
+     <li>Gehst du ins Bett?</li>
+     <li>Geht sie zur Apotheke?</li>
+     <li>Geht das kind ins Haus?</li>
+     <li>Geht das kind nach draußen?</li>
     </ul>
    </td>
   </tr>  
