@@ -1,6 +1,6 @@
 # [Back](../a1/README.md)
 
-## Practice 1
+## Occupations
 
 <a href="https://www.youtube.com/watch?v=G63cDcAXqQc&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg&index=8" target="_blank">
     <img src="http://i3.ytimg.com/vi/G63cDcAXqQc/maxresdefault.jpg" 
@@ -398,6 +398,16 @@
      <td>He/she is unemployed.</td>
      <td>
       <strong>Sie ist arbeitslos.</strong>
+     </td>
+  </tr>
+  <tr>
+     <td>39</td>
+     <td>
+      <strong>Ich bin Bibliothekar.</strong>
+      </td>
+     <td>He/she is librarian.</td>
+     <td>
+      <strong>Sie ist Bibliothekarin.</strong>
      </td>
   </tr>
  </tbody>

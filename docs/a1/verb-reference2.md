@@ -298,6 +298,86 @@
      <li>Ich erwarte, die Prüfung zu bestehen.</li>
     </ul>
    </td>
+  </tr>
+  <tr>
+   <td>15</td>
+   <td><strong>Wollen</strong></td>
+   <td>
+    <ul>
+     <li>Ich will</li>
+     <li>Du willst</li>
+     <li>er/sie/es will</li>
+     <li>Wir wollen</li>
+     <li>Ihr will</li>
+     <li>Sie wollen</li>
+    </ul>
+   </td>
+   <td>To want</td>
+   <td>
+    <ul>
+     <li>Ich will wasser trinken.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>16</td>
+   <td><strong>Verstehen</strong></td>
+   <td>
+    <ul>
+     <li>Ich verstehe</li>
+     <li>Du verstehst</li>
+     <li>er/sie/es versteht</li>
+     <li>Wir verstehen</li>
+     <li>Ihr versteht</li>
+     <li>Sie verstehen</li>
+    </ul>
+   </td>
+   <td>To understand</td>
+   <td>
+    <ul>
+     <li>Wir verstehen uns gut.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>17</td>
+   <td><strong>Mögen</strong></td>
+   <td>
+    <ul>
+     <li>Ich mag</li>
+     <li>Du magst</li>
+     <li>er/sie/es mag</li>
+     <li>Wir mögen</li>
+     <li>Ihr mag</li>
+     <li>Sie mögen</li>
+    </ul>
+   </td>
+   <td>To like</td>
+   <td>
+    <ul>
+     <li>Ich mag gerne Ebi.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>18</td>
+   <td><strong>Finden</strong></td>
+   <td>
+    <ul>
+     <li>Ich finde</li>
+     <li>Du findest</li>
+     <li>er/sie/es findet</li>
+     <li>Wir finden</li>
+     <li>Ihr findet</li>
+     <li>Sie finden</li>
+    </ul>
+   </td>
+   <td>To find</td>
+   <td>
+    <ul>
+     <li>Ich find es sehr sauber.</li>
+    </ul>
+   </td>
   </tr>  
  </tbody>
 </table>
