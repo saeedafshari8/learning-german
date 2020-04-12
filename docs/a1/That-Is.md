@@ -34,7 +34,7 @@
    <td><strong>Das ist ein Haus.</strong></td>
    <td>This is a house.</td>
    <td><strong>Das Haus ist enorm.</strong></td>
-   <td>The house is huge.</td>
+   <td>The house is enormous.</td>
    <td><strong>Es ist enorm.</strong></td>
    <td>It is huge.</td>
   </tr>
