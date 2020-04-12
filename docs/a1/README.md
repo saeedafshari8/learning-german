@@ -5,5 +5,6 @@
 ## [15 phrases](15-phrases.md)
 ## [Practice 3](practice3.md)
 ## [Talking about your job](occupation.md)
+## [That is, Those are](That-Is.md)
 ## [Verb reference 1](verb-reference1.md)
 ## [Verb reference 2](verb-reference2.md)
