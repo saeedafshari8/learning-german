@@ -23,7 +23,7 @@
   <tr>
    <td>1</td>
    <td><strong>Das ist ein runder Tisch.</strong></td>
-   <td>This is a round table.</td>
+   <td>That is a round table.</td>
    <td><strong>Der Tisch ist rund.</strong></td>
    <td>The table is round.</td>
    <td><strong>Er ist rund.</strong></td>
@@ -32,7 +32,7 @@
   <tr>
    <td>2</td>
    <td><strong>Das ist ein großes Haus.</strong></td>
-   <td>This is a big house.</td>
+   <td>That is a big house.</td>
    <td><strong>Das Haus ist enorm.</strong></td>
    <td>The house is enormous.</td>
    <td><strong>Es ist enorm.</strong></td>
@@ -41,7 +41,7 @@
   <tr>
    <td>3</td>
    <td><strong>Das sind schnelle Autos.</strong></td>
-   <td>They are fast cars.</td>
+   <td>Those are fast cars.</td>
    <td><strong>Die Autos sind schnell.</strong></td>
    <td>The cars are fast.</td>
    <td><strong>Sie sind schnell.</strong></td>
@@ -50,7 +50,7 @@
   <tr>
    <td>4</td>
    <td><strong>Das sind hässlige Autos.</strong></td>
-   <td>They are ugly cars.</td>
+   <td>Those are ugly cars.</td>
    <td><strong>Die Autos sind zu hässlich.</strong></td>
    <td>The cars are too ugly.</td>
    <td><strong>Sie sind zu hässlich.</strong></td>
@@ -59,7 +59,7 @@
   <tr>
    <td>5</td>
    <td><strong>Das sind alte Bücher.</strong></td>
-   <td>They are old books.</td>
+   <td>Those are old books.</td>
    <td><strong>Die Bücher sind billig.</strong></td>
    <td>The books are cheap.</td>
    <td><strong>Sie sind billig.</strong></td>
@@ -68,7 +68,7 @@
   <tr>
    <td>6</td>
    <td><strong>Das ist ein preiswerter Laptop.</strong></td>
-   <td>this is an inexpensive laptop.</td>
+   <td>That is an inexpensive laptop.</td>
    <td><strong>Der Laptop ist preiswert.</strong></td>
    <td>The laptop is inexpensive.</td>
    <td><strong>Er ist kaputt.</strong></td>
@@ -86,7 +86,7 @@
   <tr>
    <td>8</td>
    <td><strong>Das sind wichtige Unterlagen.</strong></td>
-   <td>These are important documents.</td>
+   <td>Those are important documents.</td>
    <td><strong>Die Unterlagen sind fälschung.</strong></td>
    <td>The documents are fake.</td>
    <td><strong>Sie sind bemerkenswert.</strong></td>
@@ -95,7 +95,7 @@
   <tr>
    <td>9</td>
    <td><strong>Das ist eine schicke Uhr.</strong></td>
-   <td>This is a fancy watch</td>
+   <td>That is a fancy watch</td>
    <td><strong>Die Uhr ist teuer.</strong></td>
    <td>The watch is expensive.</td>
    <td><strong>sie ist zart.</strong></td>
