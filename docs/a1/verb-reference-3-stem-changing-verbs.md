@@ -35,6 +35,7 @@
    <td>
     <ul>
      <li>Du fährst gerne Fahrrad.</li>
+     <li>Er fährt mit dem Auto zum Supermarkt.</li>
     </ul>
    </td>
   </tr>
@@ -74,7 +75,9 @@
    <td>To wear or carry</td>
    <td>
     <ul>
-     <li>Du Trägst eine schwere Last.</li>
+     <li>Du trägst eine schwere Last.</li>
+     <li>Er trägt ein Kleid.</li>
+     <li>Er trägt die Kiste nach oben.</li>
     </ul>
    </td>
   </tr>
@@ -95,6 +98,7 @@
    <td>
     <ul>
      <li>sie wäscht ihre hände mit Seife.</li>
+     <li>Er wäscht jeden Samstag seine Wäsche.</li>
     </ul>
    </td>
   </tr>
@@ -155,6 +159,7 @@
    <td>
     <ul>
      <li>Kann er mir heute helfen?</li>
+     <li>Hilfst du mir morgen?</li>
     </ul>
    </td>
   </tr>
@@ -195,6 +200,7 @@
    <td>
     <ul>
      <li>Kann er mit mir essen?</li>
+     <li>Sie isst nicht sehr viel?</li>
     </ul>
    </td>
   </tr>
@@ -215,6 +221,7 @@
    <td>
     <ul>
      <li>Du solltst das Essen nehmen.</li>
+     <li>Er nimmt seinen Regenschirm und geht.</li>
     </ul>
    </td>
   </tr>
@@ -235,6 +242,7 @@
    <td>
     <ul>
      <li>Treffen wir uns morgen?.</li>
+     <li>Triffst du dich morgen mit Homa?.</li>
     </ul>
    </td>
   </tr>
@@ -275,6 +283,7 @@
    <td>
     <ul>
      <li>Kannst du es für mich lesen?</li>
+     <li>Sie liest die Zeitung?</li>
     </ul>
    </td>
   </tr>
@@ -314,7 +323,28 @@
    <td>To walk</td>
    <td>
     <ul>
+     <li>sie läuft jeden Tag sieben Kilometer?</li>
      <li>Wie läuft auf der Arbeit?</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>16</td>
+   <td><strong>vergessen</strong></td>
+   <td>
+    <ul>
+     <li>Ich vergesse</li>
+     <li>Du vergisst</li>
+     <li>er/sie/es vergisst</li>
+     <li>Wir vergessen</li>
+     <li>Ihr vergesst</li>
+     <li>Sie vergessen</li>
+    </ul>
+   </td>
+   <td>To forget</td>
+   <td>
+    <ul>
+     <li>Du vergisst immer alles?</li>
     </ul>
    </td>
   </tr>
