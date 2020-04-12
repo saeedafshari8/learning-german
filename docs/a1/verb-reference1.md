@@ -102,7 +102,12 @@
    <td><strong>Lernen</strong></td>
    <td>
     <ul>
-     <li>Ich komme aus den USA</li>
+     <li>Ich Lerne</li>
+     <li>Du Lernst</li>
+     <li>Er Lernt</li>
+     <li>Wir Lernen</li>
+     <li>Ihr Lernt</li>
+     <li>Sie Lernen</li>
     </ul>
    </td>
    <td>To learn</td>
@@ -130,7 +135,7 @@
      <li>Sie überraschen</li>
     </ul>
    </td>
-   <td>To learn</td>
+   <td>To surprise</td>
    <td>
     <ul>
      <li>Du hast mich Überrascht.</li>
