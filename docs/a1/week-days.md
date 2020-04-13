@@ -19,11 +19,13 @@
    <td>-1</td>
    <td>die Wochentage</td>
    <td>The days of the week</td>
+   <td></td>
   </tr>
   <tr>
    <td>0</td>
    <td>der Wochentag</td>
    <td>The day of the week</td>
+   <td></td>
   </tr>
   <tr>
    <td>1</td>
