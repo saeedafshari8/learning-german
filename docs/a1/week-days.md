@@ -1,5 +1,78 @@
 # [Back](../a1/README.md)
 
+<a href="https://www.youtube.com/watch?v=j4T5C5gyBN4&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg&index=13" target="_blank">
+    <img src="http://i3.ytimg.com/vi/j4T5C5gyBN4/maxresdefault.jpg" 
+    alt="Hunde!"/></a>
+
+## Week days
+<table>
+ <thead>
+  <tr>
+   <th>#</th>
+   <th>Weekday</th>
+   <th>Translations in English</th>
+   <th>Example</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>-1</td>
+   <td>die Wochentage</td>
+   <td>The days of the week</td>
+  </tr>
+  <tr>
+   <td>0</td>
+   <td>der Wochentag</td>
+   <td>The day of the week</td>
+  </tr>
+  <tr>
+   <td>1</td>
+   <td>Montag</td>
+   <td>Monday</td>
+   <td>Am Montag geht Lisa in die Schule</td>
+   <td>Montag geht Lisa in die Schule</td>
+  </tr>
+  <tr>
+   <td>2</td>
+   <td>Dienstag</td>
+   <td>Tuesday</td>
+   <td>Am Dienstag geht sie in den Supermarkt</td>
+  </tr>
+  <tr>
+   <td>3</td>
+   <td>Mittwoch</td>
+   <td>Wednesday</td>
+   <td>Er hat am Mittwoch Geburtstag.</td>
+   <td>Er hat Mittwoch Geburtstag.</td>
+  </tr>
+  <tr>
+   <td>4</td>
+   <td>Donnerstag</td>
+   <td>Thursday</td>
+   <td>Am Donnerstag treffe ich Anna.</td>
+  </tr>
+  <tr>
+   <td>5</td>
+   <td>Freitag</td>
+   <td>Friday</td>
+   <td>Am Friday besuche ich Peter.</td>
+  </tr>
+  <tr>
+   <td>6</td>
+   <td>Samstag</td>
+   <td>Saturday</td>
+   <td>Am Samstag gehen wir ins Kino.</td>
+  </tr>
+  <tr>
+   <td>7</td>
+   <td>Sonntag</td>
+   <td>Sunday</td>
+   <td>Thomas geht am Sonntag in die Kirche.</td>
+  </tr>
+ </tbody>
+</table>
+
+
 <a href="https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=FGFz08E8vVs&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg&index=12" target="_blank">
     <img src="http://i3.ytimg.com/vi/FGFz08E8vVs/maxresdefault.jpg" 
     alt="Hunde!"/></a>
@@ -17,27 +90,27 @@
  <tbody>
   <tr>
    <td>1</td>
-   <td>Hunde sind [#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Haustiere`.</td>
+   <td>Hunde sind <strong>Haustiere</strong>.</td>
    <td>Dogs are pets.</td>
   </tr>
   <tr>
    <td>2</td>
-   <td>Viele Menchen haben Hunde.</td>
+   <td><strong>Viele Menchen</strong> haben Hunde.</td>
    <td>Many people have dogs.</td>
   </tr>
   <tr>
    <td>3</td>
-   <td>Hunde sind unsere besten Freunde.</td>
+   <td>Hunde sind <strong>unsere besten</strong> Freunde.</td>
    <td>Dogs are our best friends.</td>
   </tr>
   <tr>
    <td>4</td>
-   <td>Wir streicheln sie.</td>
+   <td>Wir <strong>streicheln</strong> sie.</td>
    <td>We pet them.</td>
   </tr>
   <tr>
    <td>5</td>
-   <td>Wir spielen mit ihnen.</td>
+   <td>Wir spielen <strong>mit ihnen</strong>.</td>
    <td>We play with them.</td>
   </tr>
   <tr>
@@ -57,7 +130,7 @@
   </tr>
   <tr>
    <td>9</td>
-   <td>Sie haben schwarzes Fell.</td>
+   <td>Sie haben schwarzes <strong>Fell</strong>.</td>
    <td>They have black fur.</td>
   </tr>
   <tr>
@@ -92,5 +165,3 @@
   </tr>
  </tbody>
 </table>
-
-## Week days

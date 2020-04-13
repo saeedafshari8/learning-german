@@ -348,7 +348,7 @@
      <li>Du magst</li>
      <li>er/sie/es mag</li>
      <li>Wir mögen</li>
-     <li>Ihr mag</li>
+     <li>Ihr mögt</li>
      <li>Sie mögen</li>
     </ul>
    </td>
@@ -376,6 +376,58 @@
    <td>
     <ul>
      <li>Ich find es sehr sauber.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>19</td>
+   <td><strong>gehen spazieren</strong></td>
+   <td>
+   </td>
+   <td>To find</td>
+   <td>
+    <ul>
+     <li>Ich find es sehr sauber.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>20</td>
+   <td><strong>füttern</strong></td>
+   <td>
+    <ul>
+     <li>Ich füttere</li>
+     <li>Du fütterst</li>
+     <li>er/sie/es füttert</li>
+     <li>Wir füttern</li>
+     <li>Ihr füttert</li>
+     <li>Sie füttern</li>
+    </ul>
+   </td>
+   <td>To feed</td>
+   <td>
+    <ul>
+     <li>Wir füttern sie.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>21</td>
+   <td><strong>besuchen</strong></td>
+   <td>
+    <ul>
+     <li>Ich besuche</li>
+     <li>Du besuchst</li>
+     <li>er/sie/es besucht</li>
+     <li>Wir besuchen</li>
+     <li>Ihr besucht</li>
+     <li>Sie besuchen</li>
+    </ul>
+   </td>
+   <td>To visit</td>
+   <td>
+    <ul>
+     <li>Am Freitag besuche ich Anna.</li>
     </ul>
    </td>
   </tr>  
