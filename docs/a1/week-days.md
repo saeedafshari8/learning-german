@@ -17,7 +17,7 @@
  <tbody>
   <tr>
    <td>1</td>
-   <td>Hunde sind ![#f03c15](Haustiere).</td>
+   <td>Hunde sind ![#f03c15](Haustiere) `#f03c15`.</td>
    <td>Dogs are pets.</td>
   </tr>
   <tr>
