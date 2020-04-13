@@ -6,6 +6,7 @@
 ## [Practice 3](practice3.md)
 ## [Talking about your job](occupation.md)
 ## [That is, Those are](That-Is.md)
+## [Week days](week-days.md)
 ## [Verb reference 1](verb-reference1.md)
 ## [Verb reference 2](verb-reference2.md)
 ## [Verb reference 3 (Stem changing verbs)](verb-reference-3-stem-changing-verbs.md)
