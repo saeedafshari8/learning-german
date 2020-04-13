@@ -31,8 +31,12 @@
    <td>1</td>
    <td>Montag</td>
    <td>Monday</td>
-   <td>Am Montag geht Lisa in die Schule</td>
-   <td>Montag geht Lisa in die Schule</td>
+   <td>
+    <ul>
+     <li>Am Montag geht Lisa in die Schule</li>
+     <li>Montag geht Lisa in die Schule</li>
+    </ul>
+   </td> 
   </tr>
   <tr>
    <td>2</td>
@@ -44,8 +48,12 @@
    <td>3</td>
    <td>Mittwoch</td>
    <td>Wednesday</td>
-   <td>Er hat am Mittwoch Geburtstag.</td>
-   <td>Er hat Mittwoch Geburtstag.</td>
+   <td>
+     <ul>
+      <li>Er hat am Mittwoch Geburtstag.</li>
+      <li>Er hat Mittwoch Geburtstag.</li>
+     </ul>
+   </td>
   </tr>
   <tr>
    <td>4</td>
