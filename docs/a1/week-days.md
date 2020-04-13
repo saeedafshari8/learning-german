@@ -17,7 +17,7 @@
  <tbody>
   <tr>
    <td>1</td>
-   <td>Hunde sind ![#f03c15](Haustiere) `#f03c15`.</td>
+   <td>Hunde sind [#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Haustiere`.</td>
    <td>Dogs are pets.</td>
   </tr>
   <tr>
