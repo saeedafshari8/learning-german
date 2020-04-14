@@ -430,6 +430,126 @@
      <li>Am Freitag besuche ich Anna.</li>
     </ul>
    </td>
-  </tr>  
+  </tr>
+  <tr>
+   <td>22</td>
+   <td><strong>kaufen</strong></td>
+   <td>
+    <ul>
+     <li>Ich kaufe</li>
+     <li>Du kaufst</li>
+     <li>er/sie/es kauft</li>
+     <li>Wir kaufen</li>
+     <li>Ihr kauft</li>
+     <li>Sie kaufen</li>
+    </ul>
+   </td>
+   <td>To buy</td>
+   <td>
+    <ul>
+     <li>Ich kaufe eine große Waschmaschine.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>23</td>
+   <td><strong>stehen</strong></td>
+   <td>
+    <ul>
+     <li>Ich stehe</li>
+     <li>Du stehst</li>
+     <li>er/sie/es steht</li>
+     <li>Wir stehen</li>
+     <li>Ihr steht</li>
+     <li>Sie stehen</li>
+    </ul>
+   </td>
+   <td>To stand</td>
+   <td>
+    <ul>
+     <li>Der Gefrierschrank steht im Keller.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>24</td>
+   <td><strong>schalten</strong></td>
+   <td>
+    <ul>
+     <li>Ich schalte</li>
+     <li>Du schaltst</li>
+     <li>er/sie/es schaltet</li>
+     <li>Wir schalten</li>
+     <li>Ihr schaltet</li>
+     <li>Sie schalten</li>
+    </ul>
+   </td>
+   <td>To switch</td>
+   <td>
+    <ul>
+     <li>Er schaltet den Laptop aus.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>25</td>
+   <td><strong>funktionieren</strong></td>
+   <td>
+    <ul>
+     <li>Ich funktioniere</li>
+     <li>Du funktionierst</li>
+     <li>er/sie/es funktioniert</li>
+     <li>Wir funktionieren</li>
+     <li>Ihr funktioniert</li>
+     <li>Sie funktionieren</li>
+    </ul>
+   </td>
+   <td>To funtion</td>
+   <td>
+    <ul>
+     <li>Die Tastatur functioniert nicht.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>26</td>
+   <td><strong>drucken</strong></td>
+   <td>
+    <ul>
+     <li>Ich drucke</li>
+     <li>Du druckst</li>
+     <li>er/sie/es druckt</li>
+     <li>Wir drucken</li>
+     <li>Ihr druckt</li>
+     <li>Sie drucken</li>
+    </ul>
+   </td>
+   <td>To print</td>
+   <td>
+    <ul>
+     <li>Der Drucker druckt schwarz.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>27</td>
+   <td><strong>brauchen</strong></td>
+   <td>
+    <ul>
+     <li>Ich brauche</li>
+     <li>Du brauchst</li>
+     <li>er/sie/es braucht</li>
+     <li>Wir brauchen</li>
+     <li>Ihr braucht</li>
+     <li>Sie brauchen</li>
+    </ul>
+   </td>
+   <td>To need</td>
+   <td>
+    <ul>
+     <li>Er braucht einen Resierer.</li>
+    </ul>
+   </td>
+  </tr>
  </tbody>
 </table>
