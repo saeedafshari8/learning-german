@@ -551,5 +551,58 @@
     </ul>
    </td>
   </tr>
+  <tr>
+   <td>28</td>
+   <td><strong>zählen</strong></td>
+   <td>
+    <ul>
+     <li>Ich zähle</li>
+     <li>Du zählst</li>
+     <li>er/sie/es zählt</li>
+     <li>Wir zählen</li>
+     <li>Ihr zählt</li>
+     <li>Sie zählen</li>
+    </ul>
+   </td>
+   <td>To count</td>
+   <td>
+    <ul>
+     <li>Er kann bis zehn zählen.</li>
+     <li>Lisa zählt von eins bis zehn.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>29</td>
+   <td><strong>ist gleich</strong></td>
+   <td>
+   </td>
+   <td>To equal</td>
+   <td>
+    <ul>
+     <li>Zwei plus zwei ist gleich vier.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>30</td>
+   <td><strong>beginnen</strong></td>
+   <td>
+    <ul>
+     <li>Ich beginne</li>
+     <li>Du beginnst</li>
+     <li>er/sie/es beginnt</li>
+     <li>Wir beginnen</li>
+     <li>Ihr beginnt</li>
+     <li>Sie beginnen</li>
+    </ul>
+   </td>
+   <td>To begin</td>
+   <td>
+    <ul>
+     <li>Die Schule beginnt um 8 Uhr los.</li>
+    </ul>
+   </td>
+  </tr>
  </tbody>
 </table>

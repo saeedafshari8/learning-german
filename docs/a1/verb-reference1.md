@@ -167,6 +167,26 @@
     </ul>
    </td>
   </tr>
+  <tr>
+   <td>8</td>
+   <td><strong>kosten</strong></td>
+   <td>
+    <ul>
+     <li>Ich koste</li>
+     <li>Du kostest</li>
+     <li>er/sie/es kostet</li>
+     <li>Wir kosten</li>
+     <li>Ihr kostet</li>
+     <li>Sie kosten</li>
+    </ul>
+   </td>
+   <td>To cost</td>
+   <td>
+    <ul>
+     <li>Das Auto kostet zen Euro.</li>
+    </ul>
+   </td>
+  </tr>
   
  </tbody>
 </table>

@@ -149,6 +149,11 @@
    <td>27</td>
    <td><strong>Ich fand es auch total spannend.</strong></td>
    <td>I also found it very suspenseful.</td>
+  </tr>
+  <tr>
+   <td>28</td>
+   <td><strong>Bis zum nächste mal. Ciao</strong></td>
+   <td>See you later. Bye</td>
   </tr>  
  </tbody>
 </table>
