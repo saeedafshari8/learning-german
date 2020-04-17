@@ -10,6 +10,7 @@
 ## [Week days](week-days.md)
 ## [Dialogue 1](Dialogue1.md)
 ## [Numbers](numbers.md)
+## [Rooms in a house](rooms-in-a-house.md)
 ## [Verb reference 1](verb-reference1.md)
 ## [Verb reference 2](verb-reference2.md)
 ## [Verb reference 3 (Stem changing verbs)](verb-reference-3-stem-changing-verbs.md)
