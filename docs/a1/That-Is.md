@@ -49,7 +49,7 @@
   </tr>
   <tr>
    <td>4</td>
-   <td><strong>Das sind hässlige Autos.</strong></td>
+   <td><strong>Das sind hässliche Autos.</strong></td>
    <td>Those are ugly cars.</td>
    <td><strong>Die Autos sind zu hässlich.</strong></td>
    <td>The cars are too ugly.</td>
@@ -170,8 +170,8 @@
    <td>Those are smart kids.</td>
    <td><strong>Die Kinder sind nervös.</strong></td>
    <td>The kids are nervous.</td>
-   <td><strong>Sie sind verspätet.</strong></td>
-   <td>They are retarded.</td>
+   <td><strong>Sie sind verzögern.</strong></td>
+   <td>They are retard.</td>
   </tr>
   <tr>
    <td>18</td>

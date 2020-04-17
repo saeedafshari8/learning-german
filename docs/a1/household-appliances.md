@@ -32,7 +32,7 @@
    <td>The home appliance</td>
    <td>
     <ul>
-     <li>Das ist das teures Haushaltsgerät.</li>
+     <li>Das ist das teure Haushaltsgerät.</li>
     </ul>
    </td>
   </tr>

@@ -6,6 +6,7 @@
 ## [Practice 3](practice3.md)
 ## [Talking about your job](occupation.md)
 ## [That is, Those are](That-Is.md)
+## [Household appliances](household-appliances.md)
 ## [Week days](week-days.md)
 ## [Dialogue 1](Dialogue1.md)
 ## [Numbers](numbers.md)
