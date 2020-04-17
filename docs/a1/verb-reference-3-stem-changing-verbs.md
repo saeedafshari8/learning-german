@@ -262,7 +262,7 @@
    <td>To see</td>
    <td>
     <ul>
-     <li>Siehst du misch?</li>
+     <li>Siehst du mich?</li>
     </ul>
    </td>
   </tr>

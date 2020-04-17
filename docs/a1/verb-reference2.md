@@ -230,7 +230,7 @@
    <td>To lose</td>
    <td>
     <ul>
-     <li>Hast du deinen schlüssel verloren.</li>
+     <li>Hast du deinen schlüssel verlieren.</li>
     </ul>
    </td>
   </tr>
@@ -384,10 +384,10 @@
    <td><strong>gehen spazieren</strong></td>
    <td>
    </td>
-   <td>To find</td>
+   <td>To go walking</td>
    <td>
     <ul>
-     <li>Ich find es sehr sauber.</li>
+     <li>Wir gehen spazieren mit ihnen.</li>
     </ul>
    </td>
   </tr>
