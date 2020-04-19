@@ -187,6 +187,126 @@
     </ul>
    </td>
   </tr>
+  <tr>
+   <td>9</td>
+   <td><strong>singen</strong></td>
+   <td>
+    <ul>
+     <li>Ich singe</li>
+     <li>Du singst</li>
+     <li>er/sie/es singt</li>
+     <li>Wir singen</li>
+     <li>Ihr singt</li>
+     <li>Sie singen</li>
+    </ul>
+   </td>
+   <td>To sing</td>
+   <td>
+    <ul>
+     <li>Der Vogel singt.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>10</td>
+   <td><strong>vermissen</strong></td>
+   <td>
+    <ul>
+     <li>Ich vermisse</li>
+     <li>Du vermisst</li>
+     <li>er/sie/es vermisst</li>
+     <li>Wir vermissen</li>
+     <li>Ihr vermisst</li>
+     <li>Sie vermissen</li>
+    </ul>
+   </td>
+   <td>To miss</td>
+   <td>
+    <ul>
+     <li>Ich vermisse dich.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>11</td>
+   <td><strong>verzeihen</strong></td>
+   <td>
+    <ul>
+     <li>Ich verzeihe</li>
+     <li>Du verzeihst</li>
+     <li>er/sie/es verzeiht</li>
+     <li>Wir verzeihen</li>
+     <li>Ihr verzeiht</li>
+     <li>Sie verzeihen</li>
+    </ul>
+   </td>
+   <td>To forgive</td>
+   <td>
+    <ul>
+     <li>Kannst du mir vertzeihen.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>12</td>
+   <td><strong>zeigen</strong></td>
+   <td>
+    <ul>
+     <li>Ich zeige</li>
+     <li>Du zeigst</li>
+     <li>er/sie/es zeigt</li>
+     <li>Wir zeigen</li>
+     <li>Ihr zeigt</li>
+     <li>Sie zeigen</li>
+    </ul>
+   </td>
+   <td>To show</td>
+   <td>
+    <ul>
+     <li>Sie hat es mir gezeigt.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>13</td>
+   <td><strong>verfolgen</strong></td>
+   <td>
+    <ul>
+     <li>Ich vervolge</li>
+     <li>Du vervolgst</li>
+     <li>er/sie/es verfolgt</li>
+     <li>Wir vervolgen</li>
+     <li>Ihr vervolgt</li>
+     <li>Sie verfolgen</li>
+    </ul>
+   </td>
+   <td>To pursue</td>
+   <td>
+    <ul>
+     <li>Der Polizist verfolgt den Dieb.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>14</td>
+   <td><strong>reservieren</strong></td>
+   <td>
+    <ul>
+     <li>Ich reserviere</li>
+     <li>Du reservierst</li>
+     <li>er/sie/es reserviert</li>
+     <li>Wir reservieren</li>
+     <li>Ihr reserviert</li>
+     <li>Sie reservieren</li>
+    </ul>
+   </td>
+   <td>To reserve, to book</td>
+   <td>
+    <ul>
+     <li>Er reserviert einen Tisch.</li>
+    </ul>
+   </td>
+  </tr>
   
  </tbody>
 </table>
