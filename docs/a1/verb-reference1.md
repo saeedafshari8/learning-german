@@ -307,6 +307,46 @@
     </ul>
    </td>
   </tr>
+  <tr>
+   <td>15</td>
+   <td><strong>zumachen</strong></td>
+   <td>
+    <ul>
+     <li>Ich zumache</li>
+     <li>Du zumachst</li>
+     <li>er/sie/es zumacht</li>
+     <li>Wir zumachen</li>
+     <li>Ihr zumacht</li>
+     <li>Sie zumachen</li>
+    </ul>
+   </td>
+   <td>To close</td>
+   <td>
+    <ul>
+     <li>Er zumacht das Fenster.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>16</td>
+   <td><strong>zahlen</strong></td>
+   <td>
+    <ul>
+     <li>Ich zahle</li>
+     <li>Du zahlst</li>
+     <li>er/sie/es zahlt</li>
+     <li>Wir zahlen</li>
+     <li>Ihr zahlt</li>
+     <li>Sie zahlen</li>
+    </ul>
+   </td>
+   <td>To pay</td>
+   <td>
+    <ul>
+     <li>Er zahlt die Rechnung.</li>
+    </ul>
+   </td>
+  </tr>
   
  </tbody>
 </table>
