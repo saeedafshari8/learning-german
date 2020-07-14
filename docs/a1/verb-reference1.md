@@ -6,9 +6,14 @@
   <tr>
    <th>#</th>
    <th>Verb</th>
-   <th>Conjugation</th>
-   <th>Translations in English</th>
+   <th>Present(Präsens)</th>
+   <th>Past(Präteritum)</th>
+   <th>Present perfect(Perfekt)</th>
+   <th>Past perfect(Plusquamperfekt)</th>
+   <th>Future(Futur)</th>
+   <th>Future(Futur perfekt)</th>
    <th>Examples</th>
+   <th>Translations</th>
   </tr>
  </thead>
  <tbody>
@@ -19,16 +24,64 @@
     <ul>
      <li>Ich bestehe</li>
      <li>Du bestehst</li>
-     <li>er/sie/es besteht</li>
+     <li>er besteht</li>
      <li>Wir bestehen</li>
      <li>Ihr besteht</li>
      <li>Sie bestehen</li>
     </ul>
    </td>
-   <td>To pass</td>
    <td>
     <ul>
-     <li>Ihr erwartet, die Prüfung zu bestehen.</li>
+     <li>Ich bestand</li>
+     <li>Du bestandest</li>
+     <li>Er bestand</li>
+     <li>Wir bestanden</li>
+     <li>Ihr bestandet</li>
+     <li>Sie bestanden</li>
+    </ul>
+   </td>
+   <td>
+    Ich habe bestanden
+   </td>
+   <td>
+    Ich hatte bestanden
+   </td>
+   <td>
+    Ich werde bestehen
+   </td>
+   <td>
+    Ich werde bestanden haben
+   </td>
+   <td>
+    <ul>
+     <li>
+        - Ich bestehe die Prüfung.
+        - Ich bestehe auf Ihrer Anwesenheit.
+        - Hier bei Siemens bestehen wir auf allerhöchste Qualität.
+        - Das Wasser besteht aus Wasserstoff und Sauerstoff
+     </li>
+     <li>
+        Schließlich bestand er die Prüfung.
+     </li>
+     <li>
+        Bisher habe ich jede Prüfung bestanden.
+     </li>
+     <li>
+        Derweil hatte er die Meisterprüfung bestanden.
+     </li>
+     <li>
+        Sicher wird er die Aufnahmeprüfung bestehen.
+     </li>
+     <li>
+        Er wird die Aufnahmeprüfung bestanden haben.
+     </li>
+    </ul>
+   </td>
+   <td>
+    <ul>
+        <li>To pass</li>
+        <li>Insist on - auf</li>
+        <li>Consist of - aus</li>
     </ul>
    </td>
   </tr>
