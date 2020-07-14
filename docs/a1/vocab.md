@@ -240,6 +240,106 @@
      <li>Die Revolutions ist zu Ende.(The revolution is over)</li>
     </ul>
    </td>
+  </tr>
+  <tr>
+   <td>27</td>
+   <td><strong>die Revolution</strong></td>
+   <td>the revolution</td>
+   <td>
+    <ul>
+     <li>Die Revolutions ist zu Ende.(The revolution is over)</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>28</td>
+   <td><strong>zum beispiel</strong></td>
+   <td>for example</td>
+   <td>
+    <ul>
+     <li></li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>29</td>
+   <td><strong>Der Zoo</strong></td>
+   <td>the zoo</td>
+   <td>
+    <ul>
+     <li>Wir gehen in den Zoo.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>30</td>
+   <td><strong>Der Zahn</strong></td>
+   <td>the tooth</td>
+   <td>
+    <ul>
+     <li>Ich hab einen beschädigten Zahn.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>31</td>
+   <td><strong>Der Zahnarzt</strong></td>
+   <td>the dentist</td>
+   <td>
+    <ul>
+     <li>Ich hab einen tollen Zahnarzt.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>32</td>
+   <td><strong>Die Zahnbürste</strong></td>
+   <td>the toothbrush</td>
+   <td>
+    <ul>
+     <li>Ich kaufe eine Zahnbürste.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>33</td>
+   <td><strong>Der Zeh</strong></td>
+   <td>the toe</td>
+   <td>
+    <ul>
+     <li>Mein Zie ist verletzt.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>34</td>
+   <td><strong>Der Zaun</strong></td>
+   <td>the fence</td>
+   <td>
+    <ul>
+     <li>Der Zaun ist zu kurz.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>35</td>
+   <td><strong>zwischen</strong></td>
+   <td>between</td>
+   <td>
+    <ul>
+     <li>Es ist zwischen uns.</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>36</td>
+   <td><strong>Der Zimt</strong></td>
+   <td>the cinnamon</td>
+   <td>
+    <ul>
+     <li>Ich mag Zimt sehr.</li>
+    </ul>
+   </td>
   </tr>  
  </tbody>
 </table>
